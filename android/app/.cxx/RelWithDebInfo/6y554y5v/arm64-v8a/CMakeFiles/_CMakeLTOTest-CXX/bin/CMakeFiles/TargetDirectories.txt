@@ -1,0 +1,4 @@
+/Users/kumbhanikaushik/Desktop/UserManagementApp/android/app/.cxx/RelWithDebInfo/6y554y5v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/kumbhanikaushik/Desktop/UserManagementApp/android/app/.cxx/RelWithDebInfo/6y554y5v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/kumbhanikaushik/Desktop/UserManagementApp/android/app/.cxx/RelWithDebInfo/6y554y5v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/kumbhanikaushik/Desktop/UserManagementApp/android/app/.cxx/RelWithDebInfo/6y554y5v/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

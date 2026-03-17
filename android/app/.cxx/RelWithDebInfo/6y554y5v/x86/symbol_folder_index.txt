@@ -1,0 +1,1 @@
+/Users/kumbhanikaushik/Desktop/UserManagementApp/android/app/build/intermediates/cxx/RelWithDebInfo/6y554y5v/obj/x86
